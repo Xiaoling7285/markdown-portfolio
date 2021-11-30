@@ -1,2 +1,2 @@
-# To learn Markdown 
-## There are six size. 
+# Getting started to learn Markdown 
+## There are six size, from biggest to smallest. 
